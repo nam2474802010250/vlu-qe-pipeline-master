@@ -1,6 +1,6 @@
 // Update login function
 function login(username, password) {
-    if (username === "admin" && password === "999") {
+    if (username === "admin" && password === "123") {
         return true;
     }
 
